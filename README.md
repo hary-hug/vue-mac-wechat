@@ -1,29 +1,15 @@
-# mac-wechat-client
+mac-wechat-client
+===============
+基于vue仿mac版微信客户端
 
-## Project setup
+![alt 图1](http://static.eye-note.com/mac-wechat-1.jpg)
+
+![alt 图2](http://static.eye-note.com/mac-wechat-2.jpg)
+
+### 安装
 ```
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
 
-### Compiles and minifies for production
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
