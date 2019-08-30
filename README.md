@@ -5,6 +5,8 @@ mac-wechat-client
 ### golang websocket服务端地址
 [https://github.com/hary-hug/go-mac-wechat](https://github.com/hary-hug/go-mac-wechat)
 
+![alt 图3](http://static.eye-note.com/mac-wechat-3.jpg)
+
 ![alt 图1](http://static.eye-note.com/mac-wechat-1.jpg)
 
 ![alt 图2](http://static.eye-note.com/mac-wechat-2.jpg)
